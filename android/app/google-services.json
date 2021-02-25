@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73841816124",
+    "project_id": "chatboxschoolhub",
+    "storage_bucket": "chatboxschoolhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73841816124:android:90e89226ba738e49fb4939",
+        "android_client_info": {
+          "package_name": "com.example.chatboxschoolhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73841816124-o47nc11ububbpbikdo88nijocbub955q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44hf1R1gyY-MDt05pOVIpOQVONI8yrAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73841816124-o47nc11ububbpbikdo88nijocbub955q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
