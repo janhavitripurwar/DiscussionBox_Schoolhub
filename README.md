@@ -1,6 +1,6 @@
 # chatboxschoolhub
 
-A new Flutter application.
+Discussion Box for School hub project of Schaffen Softwares.
 
 ## Getting Started
 
